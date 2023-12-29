@@ -1,0 +1,11 @@
+scikit-learn
+numpy
+pandas
+zenml
+h2o
+evidently
+streamlit
+neptune
+matplotlib==3.4.3
+
+
